@@ -1,0 +1,2 @@
+cd exe
+mtaobao.exe

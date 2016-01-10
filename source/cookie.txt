@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+s.m.taobao.com	FALSE	/	FALSE		JSESSIONID	17308031F2D10B1E3A645E9A614B2903

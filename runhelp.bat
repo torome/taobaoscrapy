@@ -1,0 +1,2 @@
+cd exehelp
+help.exe
