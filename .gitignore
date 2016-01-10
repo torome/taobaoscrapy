@@ -7,6 +7,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+data/
+excel/
+image/
 env/
 build/
 develop-eggs/
@@ -22,6 +25,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+*.docx
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
